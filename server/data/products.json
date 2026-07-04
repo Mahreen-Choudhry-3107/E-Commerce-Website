@@ -1,0 +1,202 @@
+[
+  {
+    "id": "p1",
+    "name": "Wireless Noise-Cancelling Headphones",
+    "description": "Premium over-ear headphones with active noise cancellation, 30-hour battery life, and ultra-comfortable memory foam ear cushions.",
+    "price": 299.99,
+    "image": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?w=500&q=80",
+    "category": "Electronics",
+    "rating": 4.8,
+    "stock": 25
+  },
+  {
+    "id": "p2",
+    "name": "Minimalist Leather Watch",
+    "description": "Elegant analog watch with genuine Italian leather strap, sapphire crystal glass, and Japanese quartz movement.",
+    "price": 189.99,
+    "image": "https://images.unsplash.com/photo-1524592094714-0f0654e20314?w=500&q=80",
+    "category": "Accessories",
+    "rating": 4.6,
+    "stock": 40
+  },
+  {
+    "id": "p3",
+    "name": "Organic Cotton T-Shirt",
+    "description": "Sustainably sourced 100% organic cotton tee. Pre-shrunk, tagless, and available in multiple earth-toned colors.",
+    "price": 39.99,
+    "image": "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab?w=500&q=80",
+    "category": "Clothing",
+    "rating": 4.5,
+    "stock": 100
+  },
+  {
+    "id": "p4",
+    "name": "Smart Fitness Tracker",
+    "description": "Track your health 24/7 with heart rate monitoring, sleep analysis, GPS, and 14-day battery life. Water resistant to 50m.",
+    "price": 149.99,
+    "image": "https://images.unsplash.com/photo-1575311373937-040b8e1fd5b6?w=500&q=80",
+    "category": "Electronics",
+    "rating": 4.4,
+    "stock": 60
+  },
+  {
+    "id": "p5",
+    "name": "Handcrafted Ceramic Mug Set",
+    "description": "Set of 4 artisanal stoneware mugs, each hand-thrown and glazed by skilled craftspeople. Microwave and dishwasher safe.",
+    "price": 64.99,
+    "image": "https://images.unsplash.com/photo-1514228742587-6b1558fcca3d?w=500&q=80",
+    "category": "Home",
+    "rating": 4.9,
+    "stock": 35
+  },
+  {
+    "id": "p6",
+    "name": "Premium Backpack",
+    "description": "Water-resistant nylon backpack with padded laptop compartment, USB charging port, and ergonomic shoulder straps.",
+    "price": 89.99,
+    "image": "https://images.unsplash.com/photo-1553062407-98eeb64c6a62?w=500&q=80",
+    "category": "Accessories",
+    "rating": 4.7,
+    "stock": 50
+  },
+  {
+    "id": "p7",
+    "name": "Stainless Steel Water Bottle",
+    "description": "Double-wall vacuum insulated bottle. Keeps drinks cold 24h or hot 12h. BPA-free, 750ml capacity.",
+    "price": 34.99,
+    "image": "https://images.unsplash.com/photo-1602143407151-7111542de6e8?w=500&q=80",
+    "category": "Home",
+    "rating": 4.8,
+    "stock": 80
+  },
+  {
+    "id": "p8",
+    "name": "Slim Fit Chino Pants",
+    "description": "Stretch cotton chinos with a modern slim fit. Wrinkle-resistant fabric perfect for office or weekend wear.",
+    "price": 69.99,
+    "image": "https://images.unsplash.com/photo-1624378439575-d8705ad7ae80?w=500&q=80",
+    "category": "Clothing",
+    "rating": 4.3,
+    "stock": 65
+  },
+  {
+    "id": "p9",
+    "name": "Bluetooth Portable Speaker",
+    "description": "Waterproof portable speaker with 360-degree sound, 20-hour battery, and built-in microphone. Perfect for outdoor adventures.",
+    "price": 79.99,
+    "image": "https://images.unsplash.com/photo-1608043152269-423dbba4e7e1?w=500&q=80",
+    "category": "Electronics",
+    "rating": 4.6,
+    "stock": 45
+  },
+  {
+    "id": "p10",
+    "name": "Cashmere Blend Sweater",
+    "description": "Luxuriously soft cashmere-blend crew neck sweater. Ribbed cuffs and hem, available in classic neutral tones.",
+    "price": 129.99,
+    "image": "https://images.unsplash.com/photo-1576871337622-98d48d1cf531?w=500&q=80",
+    "category": "Clothing",
+    "rating": 4.7,
+    "stock": 30
+  },
+  {
+    "id": "p11",
+    "name": "Scented Soy Candle Set",
+    "description": "Hand-poured soy wax candles in artisan glass jars. Set of 3: vanilla, lavender, and eucalyptus. 40+ hour burn time each.",
+    "price": 44.99,
+    "image": "https://images.unsplash.com/photo-1603006905003-be475563bc59?w=500&q=80",
+    "category": "Home",
+    "rating": 4.9,
+    "stock": 55
+  },
+  {
+    "id": "p12",
+    "name": "Aviator Sunglasses",
+    "description": "Classic gold-frame aviator sunglasses with polarized UV400 lenses. Lightweight titanium construction with adjustable nose pads.",
+    "price": 159.99,
+    "image": "https://images.unsplash.com/photo-1572635196237-14b3f281503f?w=500&q=80",
+    "category": "Accessories",
+    "rating": 4.5,
+    "stock": 35
+  },
+  {
+    "id": "p13",
+    "name": "4K Action Camera",
+    "description": "Ultra HD action camera with image stabilization, waterproof to 30m, and wide-angle lens. Includes mounts and carrying case.",
+    "price": 249.99,
+    "image": "https://images.unsplash.com/photo-1502920917128-1aa500764cbd?w=500&q=80",
+    "category": "Electronics",
+    "rating": 4.4,
+    "stock": 20
+  },
+  {
+    "id": "p14",
+    "name": "Linen Blazer",
+    "description": "Lightweight unlined linen blazer with notched lapels and patch pockets. Breathable fabric ideal for smart-casual occasions.",
+    "price": 179.99,
+    "image": "https://images.unsplash.com/photo-1593030761757-71fae45fa0e7?w=500&q=80",
+    "category": "Clothing",
+    "rating": 4.3,
+    "stock": 25
+  },
+  {
+    "id": "p15",
+    "name": "Marble Serving Board",
+    "description": "Premium natural marble serving board with brass handles. Perfect for charcuterie, cheese, or appetizer presentation.",
+    "price": 54.99,
+    "image": "https://images.unsplash.com/photo-1604578762246-41134e37f9cc?w=500&q=80",
+    "category": "Home",
+    "rating": 4.7,
+    "stock": 40
+  },
+  {
+    "id": "p16",
+    "name": "Leather Card Holder",
+    "description": "Slim RFID-blocking card holder crafted from full-grain leather. Holds up to 8 cards with a center pull-tab for quick access.",
+    "price": 49.99,
+    "image": "https://images.unsplash.com/photo-1606503825008-909a67e63c3d?w=500&q=80",
+    "category": "Accessories",
+    "rating": 4.8,
+    "stock": 70
+  },
+  {
+    "id": "p17",
+    "name": "Noise-Cancelling Earbuds",
+    "description": "True wireless earbuds with adaptive ANC, transparency mode, and 8-hour battery life. IPX5 water resistant for workouts.",
+    "price": 199.99,
+    "image": "https://images.unsplash.com/photo-1590658268037-6bf12f032f35?w=500&q=80",
+    "category": "Electronics",
+    "rating": 4.5,
+    "stock": 50
+  },
+  {
+    "id": "p18",
+    "name": "Bamboo Kitchen Utensil Set",
+    "description": "Eco-friendly bamboo kitchen tool set including spatula, spoon, tongs, and turner. Naturally antimicrobial and heat resistant.",
+    "price": 34.99,
+    "image": "https://images.unsplash.com/photo-1556909114-f6e7ad7d3136?w=500&q=80",
+    "category": "Home",
+    "rating": 4.6,
+    "stock": 60
+  },
+  {
+    "id": "p19",
+    "name": "Wool Beanie Hat",
+    "description": "Premium merino wool beanie with fleece lining. Ribbed knit design keeps you warm without sacrificing style.",
+    "price": 44.99,
+    "image": "https://images.unsplash.com/photo-1576871337632-b9aef4c17ab9?w=500&q=80",
+    "category": "Clothing",
+    "rating": 4.4,
+    "stock": 45
+  },
+  {
+    "id": "p20",
+    "name": "Smart LED Desk Lamp",
+    "description": "Touch-controlled LED desk lamp with 5 color modes, 7 brightness levels, wireless charging base, and USB charging port.",
+    "price": 89.99,
+    "image": "https://images.unsplash.com/photo-1507473885765-e6ed057ab6fe?w=500&q=80",
+    "category": "Electronics",
+    "rating": 4.7,
+    "stock": 35
+  }
+]
